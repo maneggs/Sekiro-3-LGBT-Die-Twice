@@ -3,7 +3,7 @@
 <p align="center">Третья часть самой невротъебательской игры в мире. В этот раз тебе предстоит сразиться с Лениным.</p>
 
 <div align=center>
-  <img src="sekiro3_template.png" width="1024px"/>
+  <img src="sekiro3_template.png" width="1024px" style="border-radius: 10px;/>
 </div>
 
 # &#128153; Что тебя ждет #
