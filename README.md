@@ -26,13 +26,12 @@
 <h1 align="center">&#128139; Спонсоры</h1>
 
 <h2 align="center">Мишаня</h2>
-
 <p style="text-align: center;">
   <img src="Other/mishanya.gif" alt="mishanya" />
 </p>
 
+<br />
 <h2 align="center">Perdoon Inc</h2>
-
 <p style="text-align: center;">
   <img src="Other/perdooninc.png"/>
 </p>
