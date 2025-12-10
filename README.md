@@ -37,3 +37,7 @@
 <div align=center>
   <img src="Other/perdooninc.png" width = 512px/>
 </div>
+
+<br />
+<h2 align="center">Скачать игру</h2>
+[СКАЧАТЬ](https://github.com/maneggs/Sekiro-3-LGBT-Die-Twice/releases/tag/Release)
