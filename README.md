@@ -41,4 +41,8 @@
 <br />
 <h2 align="center">Скачать игру</h2>
 
-[СКАЧАТЬ](https://github.com/maneggs/Sekiro-2-Gays-Die-Twice/releases/tag/Release](https://github.com/maneggs/Sekiro-3-LGBT-Die-Twice/releases/tag/Release))<br />
+<div align="center>
+  
+  [СКАЧАТЬ](https://github.com/maneggs/Sekiro-2-Gays-Die-Twice/releases/tag/Release](https://github.com/maneggs/Sekiro-3-LGBT-Die-Twice/releases/tag/Release))<br />
+
+</div>
