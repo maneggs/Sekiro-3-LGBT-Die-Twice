@@ -29,7 +29,7 @@
 
 <p style="text-align: center;">
   <img src="Other/mishanya.gif" alt="mishanya" />
-</p><br />
+</p>
 
 <h2 align="center">Perdoon Inc</h2>
 
