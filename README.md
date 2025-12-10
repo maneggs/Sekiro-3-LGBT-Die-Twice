@@ -14,7 +14,3 @@
 
 # &#128139; Спонсоры #
 &#9679; Мишаня<br />
-&#9679; Supercell<br />
-&#9679; Netflix<br />
-&#9679; NVIDIA<br />
-&#9679; Perdezh Inc.<br />
