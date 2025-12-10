@@ -26,7 +26,6 @@
 <h1 align="center">&#128139; Спонсоры</h1>
 
 <br />
-<br />
 <h2 align="center">Мишаня</h2>
 <div align=center>
   <img src="Other/mishanya.gif"/>
