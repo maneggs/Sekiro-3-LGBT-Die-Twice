@@ -16,5 +16,5 @@
 <h2 align="center">Мишаня</h2>
 
 <div align=center>
-  <img src="Other/mishanya.gif" width="400px"/>
+  ![](Other/mishanya.gif)
 </div>
