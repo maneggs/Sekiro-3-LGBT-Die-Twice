@@ -31,7 +31,8 @@
 </div>
 
 <br />
+<br />
 <h2 align="center">Perdoon Inc</h2>
 <div align=center>
-  <img src="Other/perdooninc.png" width = 400px/>
+  <img src="Other/perdooninc.png" width = 512px/>
 </div>
