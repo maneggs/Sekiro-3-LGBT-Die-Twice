@@ -15,4 +15,6 @@
 <h1 align="center">&#128139; Спонсоры</h1>
 <h2 align="center">Мишаня</h2>
 
-![mishanya](Other/mishanya.gif)
+<p style="text-align: center;">
+  <img src="Other/mishanya.gif" alt="mishanya" />
+</p>
